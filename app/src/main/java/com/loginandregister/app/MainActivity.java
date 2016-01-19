@@ -16,6 +16,7 @@ import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
+//erdinc
 
 public class MainActivity extends AppCompatActivity {
 
