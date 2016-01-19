@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
         if (!validatePassword()) return;
 
         Toast.makeText(getApplicationContext(), "Thank you", Toast.LENGTH_SHORT).show();
-        Log.d(CLASSNAME,"Login basarili");
+        Log.d(CLASSNAME,"Login successfully.");
 
     }
 
